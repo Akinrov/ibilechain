@@ -1,0 +1,11 @@
+[Protocol]
+exec=ibilechain-qt '%u'
+protocol=ibilechain
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

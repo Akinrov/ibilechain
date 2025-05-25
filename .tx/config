@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[ibilechain-project-translations.qt-translation-43x]
+file_filter = src/qt/locale/ibilechain_<lang>.ts
+source_file = src/qt/locale/ibilechain_en.ts
+source_lang = en

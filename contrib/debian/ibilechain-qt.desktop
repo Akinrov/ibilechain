@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Ibilechain
+Comment= IBLC P2P Cryptocurrency
+Comment[fr]= IBLC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= IBLC, eşten eşe kriptografik sanal para birimi
+Exec=ibilechain-qt %u
+Terminal=false
+Type=Application
+Icon=ibilechain128
+MimeType=x-scheme-handler/ibilechain;
+Categories=Office;Finance;
+StartupWMClass=Ibilechain-qt

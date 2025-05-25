@@ -1,0 +1,6 @@
+usr/local/bin/ibilechain-qt usr/bin
+share/pixmaps/ibilechain32.xpm usr/share/pixmaps
+share/pixmaps/ibilechain16.xpm usr/share/pixmaps
+share/pixmaps/ibilechain128.png usr/share/pixmaps
+debian/ibilechain-qt.desktop usr/share/applications
+debian/ibilechain-qt.protocol usr/share/kde4/services/
